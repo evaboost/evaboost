@@ -6,4 +6,4 @@
 [![Join the chat at https://gitter.im/evaboost/Lobby](https://badges.gitter.im/evaboost/Lobby.svg)](https://gitter.im/evaboost/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Research**
-[![Research](https://www.ibm.com/thought-leadership/you/ru-ru/img/Icon-04.png)](./RESEARCH.md)
+[![Research](http://icons.iconarchive.com/icons/icons8/windows-8/128/Industry-Research-icon.png)](./RESEARCH.md)
