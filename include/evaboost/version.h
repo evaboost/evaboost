@@ -22,4 +22,5 @@ limitations under the License.
 #define EVABOOST_MINOR_VERSION 1
 #define EVABOOST_PATCH_VERSION 0
 
+int a(v,f);
 #endif // EVABOOST
