@@ -16,6 +16,8 @@ limitations under the License.
 #ifndef EVABOOST_HPP
 #define EVABOOST_HPP
 
+// EvaBoost uses semantic versioning, see http://semver.org/.
+
 #define EVABOOST_MAJOR_VERSION 0
 #define EVABOOST_MINOR_VERSION 1
 #define EVABOOST_PATCH_VERSION 0
