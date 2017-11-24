@@ -4,3 +4,6 @@
 [![Documentation Status](https://readthedocs.org/projects/evaboost/badge/?version=latest)](http://evaboost.readthedocs.io/en/latest/?badge=latest)
 [![GitHub license](http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat)](./LICENSE)
 [![Join the chat at https://gitter.im/evaboost/Lobby](https://badges.gitter.im/evaboost/Lobby.svg)](https://gitter.im/evaboost/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+**Research**
+[![Research](https://www.ibm.com/thought-leadership/you/ru-ru/img/Icon-04.png)](./RESEARCH.md)
