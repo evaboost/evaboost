@@ -17,3 +17,7 @@
 7. [Evolutionary induction of a decision tree for large-scale data: a GPU-based approach](https://link.springer.com/article/10.1007/s00500-016-2280-1)
 
 8. [Developing a Hybrid Intelligent Classifier by using Evolutionary Learning (Genetic Algorithm and Decision Tree)](http://www.indjst.org/index.php/indjst/article/view/93766)
+
+9. [Accurate and interpretable nanoSAR models from genetic programming-based decision tree construction approaches](http://www.tandfonline.com/doi/abs/10.3109/17435390.2016.1161857)
+
+10. [Advances in Evolutionary Algorithms](http://www.twirpx.com/file/632222/)
