@@ -22,4 +22,12 @@
 
 10. [Advances in Evolutionary Algorithms](http://www.twirpx.com/file/632222/)
 
+11. [Pruning Techniques for Mixed Ensembles of Genetic Programming Models](https://arxiv.org/pdf/1801.07668.pdf)
+
+12. [A Modified Stacking Ensemble Machine Learning Algorithm Using Genetic Algorithms](http://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1061&context=jitim)
+
+13. [Evolutionary Ensembles: Combining Learning Agents using Genetic Algorithms](https://www.aaai.org/Papers/Workshops/2005/WS-05-09/WS05-09-008.pdf)
+
+14. [Ensemble Learning for Free with Evolutionary Algorithms ?](https://www.cs.york.ac.uk/rts/docs/GECCO_2007/docs/p1782.pdf)
+
 [Yandex Disk](https://yadi.sk/d/RziC6b6h3QEH8E)
