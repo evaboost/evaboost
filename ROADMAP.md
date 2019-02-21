@@ -1,9 +1,8 @@
 # Road map
 
-1. Обычное обучение деревьев решений - TODO
-2. Сборка на travis - TODO
-3. Сборка на appveyor - TODO
-4. Сборка документации - TODO
-5. Сборка тестов - TODO
+1. Reader for CSV files - TODO
+2. Сборка тестов - TODO
+3. Сборка на travis - TODO
+4. Сборка на appveyor - TODO
+5. Сборка документации - TODO
 6. Настройка покрытия тестами - TODO
-7. Примеры обучения деревьев - TODO
