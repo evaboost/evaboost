@@ -1,4 +1,4 @@
-# evaboost
+<img src=image/logo.png/>
 
 [Website](https://evaboost.github.io) |
 [Documentation](https://evaboost.github.io) |
