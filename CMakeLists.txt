@@ -1,5 +1,0 @@
-CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
-
-set(PROJECT_NAME evaboost)
-project(${PROJECT_NAME})
-
